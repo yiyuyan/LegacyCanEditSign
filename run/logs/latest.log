@@ -1,0 +1,358 @@
+[12:15:33] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.8.9 with Fabric Loader 0.15.6
+[12:15:34] [main/INFO] (FabricLoader) Loading 30 mods:
+	- fabricloader 0.15.6
+	- java 21
+	- killaura 1.0.0
+	- legacy-fabric-api 1.9.1+1.8.9
+	- legacy-fabric-api-base 1.1.0+1.8.9+f368a06d39
+	- legacy-fabric-api-base-common 1.1.0+1dd3cad892
+	- legacy-fabric-command-api-v1 1.0.0+ae4aa0d092
+	- legacy-fabric-command-api-v2 1.0.0+1.8.9+01f7587839
+	- legacy-fabric-crash-report-info-v1 1.0.0+1.8.9+f368a06d39
+	- legacy-fabric-entity-events-v1 1.0.0+1.8.9+f368a06d39
+	- legacy-fabric-entity-events-v1-common 1.0.0+ae4aa0d092
+	- legacy-fabric-gamerule-api-v1 1.0.0+ae4aa0d092
+	- legacy-fabric-item-groups-v1 2.0.0+1.8.9+f368a06d39
+	- legacy-fabric-item-groups-v1-common 2.0.0+1dd3cad892
+	- legacy-fabric-keybinding-api-v1-common 1.0.0+ae4aa0d092
+	- legacy-fabric-lifecycle-events-v1 1.0.1+1.8.9+d86bee7939
+	- legacy-fabric-lifecycle-events-v1-common 1.0.1+ae4aa0d092
+	- legacy-fabric-logger-api-v1 1.0.4+ae4aa0d092
+	- legacy-fabric-networking-api-v1 2.0.0+1.8.9+01f7587839
+	- legacy-fabric-networking-api-v1-common 2.0.0+022f9a7592
+	- legacy-fabric-permissions-api-v1 1.0.0+1.8.9+f368a06d39
+	- legacy-fabric-permissions-api-v1-common 1.0.0+ae4aa0d092
+	- legacy-fabric-registry-sync-api-v1 2.1.0+1.8.9+508c546039
+	- legacy-fabric-registry-sync-api-v1-common 2.1.0+508c546092
+	- legacy-fabric-rendering-api-v1 1.0.0+1.8.9+022f9a7539
+	- legacy-fabric-rendering-api-v1-common 1.0.0+ae4aa0d092
+	- legacy-fabric-resource-loader-v1 2.1.0+1.8.9+022f9a7539
+	- legacy-fabric-resource-loader-v1-common 2.1.0+a9c128f492
+	- minecraft 1.8.9
+	- mixinextras 0.3.2
+[12:15:34] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/E:/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[12:15:34] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[12:15:34] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[12:15:36] [main/INFO] (Minecraft) Setting user: Player195
+[12:15:36] [main/INFO] (Minecraft) (Session ID is token:FabricMC:Player195)
+[12:15:37] [main/INFO] (Minecraft) LWJGL Version: 2.9.4+legacyfabric
+[12:15:38] [main/INFO] (Minecraft) Reloading ResourceManager: Default, Legacy Fabric API, Legacy Fabric Resource Loader (V1), Legacy Fabric Lifecycle Events (V1), Legacy Fabric Entity Events (V1), Legacy Fabric Permissions API (v1), Legacy Fabric Networking API (v1), Legacy Fabric Crash Report Info (v1), Legacy Fabric Item Groups (V1), Legacy Fabric Keybinding API (V1), Legacy Fabric Networking API (v1), Legacy Fabric API Base, LegacyCanEditSign, Fabric Loader, Legacy Fabric Registry Sync API (V1), Legacy Fabric Rendering API (V1), Legacy Fabric Resource Loader (V1) Common, Fabric Gamerule API (v1), Legacy Fabric API Base Common, Legacy Fabric Rendering API (V1), Legacy Fabric Registry Sync API (V1), Legacy Fabric Command API (v2), Legacy Fabric Item Groups (V1), Legacy Fabric Lifecycle Events (V1), Legacy Fabric Permissions API (v2), Legacy Fabric Logger API (v1), Legacy Fabric Command API (V1), Legacy Fabric Entity Events (V1)
+[12:15:39] [main/ERROR] (Minecraft) Couldn't initialize twitch stream
+[12:15:39] [Sound Library Loader/INFO] (Minecraft) Starting up SoundSystem...
+[12:15:39] [Thread-4/INFO] (Minecraft) Initializing LWJGL OpenAL
+[12:15:39] [Thread-4/INFO] (Minecraft) (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:15:39] [Thread-4/INFO] (Minecraft) OpenAL initialized.
+[12:15:39] [Sound Library Loader/INFO] (Minecraft) Sound engine started
+[12:15:41] [main/INFO] (Minecraft) Created: 512x512 textures-atlas
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry legacy-fabric-registry-sync-api-v1-common:registry_remappers
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 7 entries
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:blocks
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 198 entries
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:status_effects
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 23 entries
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:enchantments
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 25 entries
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:items
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 337 entries
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:biomes
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 61 entries
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:block_entity_types
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 21 entries
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:entity_types
+[12:15:59] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 62 entries
+[12:15:59] [main/INFO] (LegacyFabricAPI/WorldSaveHandler) [legacy-fabric-registry-sync-api-v1] Loaded registry data [file 1/4]
+[12:15:59] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.8.9
+[12:15:59] [Server thread/INFO] (Minecraft) Generating keypair
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry legacy-fabric-registry-sync-api-v1-common:registry_remappers
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 7 entries
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:blocks
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 198 entries
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:status_effects
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 23 entries
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:enchantments
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 25 entries
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:items
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 337 entries
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:biomes
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 61 entries
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:block_entity_types
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 21 entries
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:entity_types
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 62 entries
+[12:15:59] [Server thread/INFO] (LegacyFabricAPI/WorldSaveHandler) [legacy-fabric-registry-sync-api-v1] Loaded registry data [file 1/4]
+[12:15:59] [Server thread/INFO] (Minecraft) Preparing start region for level 0
+[12:16:00] [Server thread/INFO] (Minecraft) Preparing spawn area: 89%
+[12:16:00] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[12:16:01] [Server thread/INFO] (Minecraft) Player195[local:E:0fe2d851] logged in with entity id 188 at (-9.581311092923816, 71.0, 1.7167015299201038)
+[12:16:01] [Server thread/INFO] (Minecraft) Player195 joined the game
+[12:16:03] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[12:16:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Overworld
+[12:16:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Nether
+[12:16:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/The End
+[12:16:03] [Server thread/ERROR] (FabricLoader/Mixin) Mixin apply for mod legacy-fabric-permissions-api-v1 failed legacy-fabric-permissions-api-v1.mixins.json:SignBlockEntity_2Mixin from mod legacy-fabric-permissions-api-v1 -> net.minecraft.block.entity.SignBlockEntity$2: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException @Shadow field field_1466 was not located in the target class net.minecraft.block.entity.SignBlockEntity$2. Using refmap legacy-fabric-permissions-api-v1-refmap.json
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: @Shadow field field_1466 was not located in the target class net.minecraft.block.entity.SignBlockEntity$2. Using refmap legacy-fabric-permissions-api-v1-refmap.json
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachFields(MixinPreProcessorStandard.java:624) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:302) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:277) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1289) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:294) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServer.setupWorld(IntegratedServer.java:148) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:451) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:16:03] [Server thread/FATAL] (Minecraft) Error executing task
+java.util.concurrent.ExecutionException: java.lang.RuntimeException: Mixin transformation of net.minecraft.block.entity.SignBlockEntity$2 failed
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:45) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServer.setupWorld(IntegratedServer.java:148) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:451) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.block.entity.SignBlockEntity$2 failed
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:427) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	... 3 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	... 3 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [legacy-fabric-permissions-api-v1.mixins.json:SignBlockEntity_2Mixin from mod legacy-fabric-permissions-api-v1] from phase [DEFAULT] in config [legacy-fabric-permissions-api-v1.mixins.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:638) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:589) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:379) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	... 3 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: @Shadow field field_1466 was not located in the target class net.minecraft.block.entity.SignBlockEntity$2. Using refmap legacy-fabric-permissions-api-v1-refmap.json
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachFields(MixinPreProcessorStandard.java:624) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:302) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:277) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1289) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:294) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	... 3 more
+[12:16:11] [Server thread/WARN] (Minecraft) Player Player195 just tried to change non-editable sign
+[12:16:12] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[12:16:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Overworld
+[12:16:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Nether
+[12:16:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/The End
+[12:16:12] [Server thread/ERROR] (FabricLoader/Mixin) Mixin apply for mod legacy-fabric-permissions-api-v1 failed legacy-fabric-permissions-api-v1.mixins.json:SignBlockEntity_2Mixin from mod legacy-fabric-permissions-api-v1 -> net.minecraft.block.entity.SignBlockEntity$2: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException @Shadow field field_1466 was not located in the target class net.minecraft.block.entity.SignBlockEntity$2. Using refmap legacy-fabric-permissions-api-v1-refmap.json
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: @Shadow field field_1466 was not located in the target class net.minecraft.block.entity.SignBlockEntity$2. Using refmap legacy-fabric-permissions-api-v1-refmap.json
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachFields(MixinPreProcessorStandard.java:624) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:302) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:277) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1289) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:294) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServer.setupWorld(IntegratedServer.java:148) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:451) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:16:12] [Server thread/FATAL] (Minecraft) Error executing task
+java.util.concurrent.ExecutionException: java.lang.RuntimeException: Mixin transformation of net.minecraft.block.entity.SignBlockEntity$2 failed
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:45) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServer.setupWorld(IntegratedServer.java:148) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:451) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.block.entity.SignBlockEntity$2 failed
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:427) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	... 3 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	... 3 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [legacy-fabric-permissions-api-v1.mixins.json:SignBlockEntity_2Mixin from mod legacy-fabric-permissions-api-v1] from phase [DEFAULT] in config [legacy-fabric-permissions-api-v1.mixins.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:638) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:589) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:379) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	... 3 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: @Shadow field field_1466 was not located in the target class net.minecraft.block.entity.SignBlockEntity$2. Using refmap legacy-fabric-permissions-api-v1-refmap.json
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachFields(MixinPreProcessorStandard.java:624) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:302) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:277) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1289) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:294) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.6.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.block.entity.SignBlockEntity.onActivate(SignBlockEntity.java:141) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.block.AbstractSignBlock.onUse(AbstractSignBlock.java:83) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:292) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:507) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:59) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at net.minecraft.network.NetworkThreadUtils$1.run(NetworkThreadUtils.java:13) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.util.Util.executeTask(Util.java:44) ~[minecraft-merged-legacy-intermediary-1-v2-1.8.9-net.legacyfabric.yarn.1_8_9.1.8.9+build.535-v2.jar:?]
+	... 3 more
+[12:16:23] [Server thread/WARN] (Minecraft) Player Player195 just tried to change non-editable sign
+[12:16:54] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[12:16:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Overworld
+[12:16:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Nether
+[12:16:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/The End
+[12:16:55] [Server thread/INFO] (Minecraft) Stopping server
+[12:16:55] [Server thread/INFO] (Minecraft) Saving players
+[12:16:55] [Server thread/INFO] (Minecraft) Saving worlds
+[12:16:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Overworld
+[12:16:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Nether
+[12:16:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/The End
+[12:16:58] [main/INFO] (Minecraft) Stopping!
+[12:16:58] [main/INFO] (Minecraft) SoundSystem shutting down...
+[12:16:58] [main/WARN] (Minecraft) Author: Paul Lamb, www.paulscode.com
