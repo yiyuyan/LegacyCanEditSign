@@ -12,11 +12,7 @@
   },
   "license": "MIT",
   "environment": "*",
-  "entrypoints": {
-    "client": [
-      "cn.ksmcbrigade.les.LegacyCanEditSign"
-    ]
-  },
+  "entrypoints": {},
   "mixins": [
     "les.mixins.json"
   ],
